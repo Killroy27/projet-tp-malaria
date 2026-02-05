@@ -10,4 +10,4 @@ __pycache__/
 .vscode/
 
 # Dataset (Huge files)
-malaria_hematie_dataset/
+cell_images/
